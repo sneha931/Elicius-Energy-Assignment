@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy
+asyncpg
+redis
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+openai
+prometheus-fastapi-instrumentator
+pytest
+pytest-asyncio
+httpx
